@@ -8,4 +8,5 @@ int main()
 	cout << "mdr" << endl;
 	cout << "xd" << endl;
 	//mdr
+	//rabie
 }
